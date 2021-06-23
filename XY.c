@@ -11,8 +11,8 @@ int main(void){
     int c;
     c=func(&a,&b);
     printf("%d,%d,%d\n",a,b,c);
-
-   
+    
+    
 }
 
 
